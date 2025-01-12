@@ -1,5 +1,5 @@
 # JohnJohnx23.github.io
 
-John Price - Johnpricejr20@gmail.com
-This is my school account
+John Price - jwprice@my.waketech.edu \n
+This is my school account \n
 This repository will hold assignments for my programming class
